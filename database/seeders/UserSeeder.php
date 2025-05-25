@@ -19,4 +19,4 @@ class UserSeeder extends Seeder
             'password' => Hash::make('test123')
         ]);
     }
-}
+}   
