@@ -1,5 +1,9 @@
 <template>
-    <h1>Dashboard</h1>
+    <Layout>
+        <h1>Dashboard</h1>
+    </Layout>
 </template>
 
-<script setup></script>
+<script setup>
+import Layout from "./Layout.vue";
+</script>
